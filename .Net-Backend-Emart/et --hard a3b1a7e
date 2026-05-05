@@ -1,0 +1,22 @@
+[33mb516355[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Remove secrets from config and use environment variables
+[33m9f3ae4a[m Remove OAuth secrets from config
+[33ma3b1a7e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge branch 'main' of https://github.com/Emart-CDAC/.Net-Backend
+[33md119152[m logging for order and xunit for cart
+[33m3033a5e[m added logging feature when using any controller
+[33m2774054[m Configure Google Auth and Backend Fixes (Clean)
+[33ma9a65c9[m Update appsettings and add Google Auth (Secrets secured)
+[33maa6d361[m resolved confilcit
+[33md049eb5[m category changes
+[33meb8f571[m Chirag
+[33mee2d9cb[m confilict solved
+[33m9bf5079[m main changes
+[33m135934c[m swayam
+[33m92a92a5[m emartcard and customer
+[33m5a5bff5[m Merge branch 'main' of https://github.com/Emart-CDAC/.Net-Backend
+[33mdc1c980[m swayam commits
+[33mb0c0126[m changes
+[33m0970d66[m product changes
+[33mf4ca1d8[m tanmayee
+[33mc71328c[m added models
+[33ma3bbe9d[m added dependency
+[33m067630f[m Project Creation

@@ -1,0 +1,7 @@
+@Emart_DotNet_HostAddress = http://localhost:5059
+
+GET {{Emart_DotNet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+# The .http file is a lightweight built-in API testing tool in Visual Studio — it uses variables to define the base URL and separates multiple HTTP requests with ###, allowing developers to test endpoints without leaving the IDE.

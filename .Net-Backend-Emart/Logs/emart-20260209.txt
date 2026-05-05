@@ -1,0 +1,92 @@
+2026-02-09 15:22:27 [INF] Emart .NET Backend started successfully
+2026-02-09 15:28:52 [INF] Emart .NET Backend started successfully
+2026-02-09 15:29:01 [WRN] Failed to determine the https port for redirect.
+2026-02-09 15:29:12 [INF] Executing action: Category.ListCategories (GET)
+2026-02-09 15:29:12 [INF] Executing action: Product.GetAllProducts (GET)
+2026-02-09 15:29:15 [INF] Action Category.ListCategories executed in 2791ms. Status Code: 200
+2026-02-09 15:29:15 [INF] Action Product.GetAllProducts executed in 2805ms. Status Code: 200
+2026-02-09 15:29:15 [INF] Executing action: Category.ListCategories (GET)
+2026-02-09 15:29:15 [INF] Executing action: Product.GetAllProducts (GET)
+2026-02-09 15:29:15 [INF] Action Category.ListCategories executed in 166ms. Status Code: 200
+2026-02-09 15:29:15 [INF] Executing action: Category.ListCategories (GET)
+2026-02-09 15:29:15 [INF] Action Category.ListCategories executed in 4ms. Status Code: 200
+2026-02-09 15:29:15 [INF] Action Product.GetAllProducts executed in 256ms. Status Code: 200
+2026-02-09 15:29:15 [INF] Executing action: Category.ListCategories (GET)
+2026-02-09 15:29:15 [INF] Action Category.ListCategories executed in 7ms. Status Code: 200
+2026-02-09 15:29:35 [INF] Executing action: Auth.GoogleLogin (GET)
+2026-02-09 15:29:35 [INF] Action Auth.GoogleLogin executed in 41ms. Status Code: 200
+2026-02-09 15:29:48 [INF] Executing action: Auth.GoogleCallback (GET)
+2026-02-09 15:29:48 [INF] Action Auth.GoogleCallback executed in 396ms. Status Code: 200
+2026-02-09 15:29:49 [INF] Executing action: Category.ListCategories (GET)
+2026-02-09 15:29:49 [INF] Action Category.ListCategories executed in 20ms. Status Code: 200
+2026-02-09 15:29:49 [INF] Executing action: Category.ListCategories (GET)
+2026-02-09 15:29:49 [INF] Action Category.ListCategories executed in 9ms. Status Code: 200
+2026-02-09 15:29:55 [INF] Executing action: Auth.GoogleLogin (GET)
+2026-02-09 15:29:55 [INF] Action Auth.GoogleLogin executed in 1ms. Status Code: 200
+2026-02-09 15:30:04 [INF] Executing action: Auth.GoogleCallback (GET)
+2026-02-09 15:30:05 [INF] Action Auth.GoogleCallback executed in 423ms. Status Code: 200
+2026-02-09 15:30:05 [INF] Executing action: Category.ListCategories (GET)
+2026-02-09 15:30:05 [INF] Action Category.ListCategories executed in 10ms. Status Code: 200
+2026-02-09 15:30:05 [INF] Executing action: Category.ListCategories (GET)
+2026-02-09 15:30:05 [INF] Action Category.ListCategories executed in 5ms. Status Code: 200
+2026-02-09 15:30:07 [INF] Executing action: User.ViewProfile (GET)
+2026-02-09 15:30:07 [INF] Action User.ViewProfile executed in 47ms. Status Code: 200
+2026-02-09 15:30:07 [INF] Executing action: User.ViewProfile (GET)
+2026-02-09 15:30:07 [INF] Action User.ViewProfile executed in 5ms. Status Code: 200
+2026-02-09 15:30:07 [INF] Executing action: Cart.GetCartSummary (GET)
+2026-02-09 15:30:07 [INF] Executing action: Product.GetAllProducts (GET)
+2026-02-09 15:30:07 [INF] Action Product.GetAllProducts executed in 28ms. Status Code: 200
+2026-02-09 15:30:07 [INF] Executing action: Product.GetAllProducts (GET)
+2026-02-09 15:30:07 [INF] Executing action: Category.ListCategories (GET)
+2026-02-09 15:30:07 [INF] Action Product.GetAllProducts executed in 21ms. Status Code: 200
+2026-02-09 15:30:07 [INF] Action Category.ListCategories executed in 4ms. Status Code: 200
+2026-02-09 15:30:08 [INF] Executing action: Category.ListCategories (GET)
+2026-02-09 15:30:08 [INF] Action Category.ListCategories executed in 3ms. Status Code: 200
+2026-02-09 15:30:09 [INF] Action Cart.GetCartSummary executed in 1463ms. Status Code: 200
+2026-02-09 15:30:13 [INF] Executing action: Cart.AddToCart (POST)
+2026-02-09 15:30:15 [INF] Action Cart.AddToCart executed in 1384ms. Status Code: 200
+2026-02-09 15:30:15 [INF] Executing action: Cart.GetCartSummary (GET)
+2026-02-09 15:30:15 [INF] Action Cart.GetCartSummary executed in 113ms. Status Code: 200
+2026-02-09 15:30:20 [INF] Executing action: Address.GetUserAddresses (GET)
+2026-02-09 15:30:20 [INF] Action Address.GetUserAddresses executed in 163ms. Status Code: 200
+2026-02-09 15:30:20 [INF] Executing action: Address.GetUserAddresses (GET)
+2026-02-09 15:30:20 [INF] Action Address.GetUserAddresses executed in 3ms. Status Code: 200
+2026-02-09 15:30:29 [INF] Executing action: Payment.CreateOrder (POST)
+2026-02-09 15:30:32 [INF] Action Payment.CreateOrder executed in 3668ms. Status Code: 200
+2026-02-09 15:31:05 [INF] Executing action: Order.PlaceOrder (POST)
+2026-02-09 15:31:13 [INF] ORDER PLACED | OrderId: 3 | UserId: 1 | Date: 2026-02-09 | Time: 15:31:13 | Amount: 46803.35
+2026-02-09 15:31:13 [INF] Action Order.PlaceOrder executed in 8316ms. Status Code: 200
+2026-02-09 15:31:13 [INF] Executing action: Payment.VerifyRazorpayPayment (POST)
+2026-02-09 15:31:14 [INF] Action Payment.VerifyRazorpayPayment executed in 215ms. Status Code: 200
+2026-02-09 15:31:14 [INF] Executing action: Cart.GetCartSummary (GET)
+2026-02-09 15:31:14 [INF] Action Cart.GetCartSummary executed in 13ms. Status Code: 200
+2026-02-09 15:31:14 [INF] Executing action: User.ViewProfile (GET)
+2026-02-09 15:31:14 [INF] Action User.ViewProfile executed in 3ms. Status Code: 200
+2026-02-09 15:31:14 [INF] Executing action: User.ViewProfile (GET)
+2026-02-09 15:31:14 [INF] Executing action: Order.GetOrderById (GET)
+2026-02-09 15:31:14 [INF] Action User.ViewProfile executed in 5ms. Status Code: 200
+2026-02-09 15:31:14 [INF] Action Order.GetOrderById executed in 19ms. Status Code: 200
+2026-02-09 15:31:14 [INF] Executing action: Product.GetAllProducts (GET)
+2026-02-09 15:31:14 [INF] Executing action: Order.GetOrderById (GET)
+2026-02-09 15:31:14 [INF] Action Product.GetAllProducts executed in 17ms. Status Code: 200
+2026-02-09 15:31:14 [INF] Action Order.GetOrderById executed in 32ms. Status Code: 200
+2026-02-09 15:31:14 [INF] Executing action: Product.GetAllProducts (GET)
+2026-02-09 15:31:14 [INF] Action Product.GetAllProducts executed in 12ms. Status Code: 200
+2026-02-09 15:31:18 [INF] Executing action: Product.GetAllProducts (GET)
+2026-02-09 15:31:18 [INF] Action Product.GetAllProducts executed in 15ms. Status Code: 200
+2026-02-09 15:31:18 [INF] Executing action: Product.GetAllProducts (GET)
+2026-02-09 15:31:18 [INF] Executing action: Category.ListCategories (GET)
+2026-02-09 15:31:18 [INF] Action Category.ListCategories executed in 2ms. Status Code: 200
+2026-02-09 15:31:18 [INF] Action Product.GetAllProducts executed in 20ms. Status Code: 200
+2026-02-09 15:31:18 [INF] Executing action: Category.ListCategories (GET)
+2026-02-09 15:31:18 [INF] Action Category.ListCategories executed in 4ms. Status Code: 200
+2026-02-09 15:31:22 [INF] Executing action: Category.ListCategories (GET)
+2026-02-09 15:31:22 [INF] Executing action: Product.GetAllProducts (GET)
+2026-02-09 15:31:22 [INF] Action Category.ListCategories executed in 2ms. Status Code: 200
+2026-02-09 15:31:22 [INF] Executing action: Category.ListCategories (GET)
+2026-02-09 15:31:22 [INF] Action Category.ListCategories executed in 2ms. Status Code: 200
+2026-02-09 15:31:22 [INF] Action Product.GetAllProducts executed in 18ms. Status Code: 200
+2026-02-09 15:31:22 [INF] Executing action: Product.GetAllProducts (GET)
+2026-02-09 15:31:22 [INF] Action Product.GetAllProducts executed in 16ms. Status Code: 200
+2026-02-09 15:31:22 [INF] Executing action: Category.GetChildCategories (GET)
+2026-02-09 15:31:22 [INF] Action Category.GetChildCategories executed in 37ms. Status Code: 200
